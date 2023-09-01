@@ -1,0 +1,15 @@
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\bin\Debug\net6.0\CSharp_Programs.exe
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\bin\Debug\net6.0\CSharp_Programs.deps.json
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\bin\Debug\net6.0\CSharp_Programs.runtimeconfig.json
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\bin\Debug\net6.0\CSharp_Programs.dll
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\bin\Debug\net6.0\CSharp_Programs.pdb
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.csproj.AssemblyReference.cache
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.AssemblyInfoInputs.cache
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.AssemblyInfo.cs
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.csproj.CoreCompileInputs.cache
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.dll
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\refint\CSharp_Programs.dll
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.pdb
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\CSharp_Programs.genruntimeconfig.cache
+F:\Anju Learning\C# Programs\CSharp_Programs\CSharp_Programs\obj\Debug\net6.0\ref\CSharp_Programs.dll
